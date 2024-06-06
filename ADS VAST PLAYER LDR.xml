@@ -9,8 +9,8 @@
                     <Linear skipoffset="00:00:04">
                         <Duration>00:00:03</Duration>
                         <VideoClicks>
-                            <ClickThrough id="blog"><![CDATA[https://xgamingff.com/]]></ClickThrough>
-                            <CustomClick>https://xgamingff.com/</CustomClick>
+                            <ClickThrough id="blog"><![CDATA[https://www.videosprofitnetwork.com/watch.xml?key=4bfc6d5e8b64e506914dd34a157d6f60]]></ClickThrough>
+                            <CustomClick>https://www.videosprofitnetwork.com/watch.xml?key=4bfc6d5e8b64e506914dd34a157d6f60</CustomClick>
                         </VideoClicks>
                         <MediaFiles>
                             <MediaFile id="3" delivery="progressive" type="video/mp4" scalable="1" maintainAspectRatio="1" codec="0" apiFramework="VAST"><![CDATA[https://www.videosprofitnetwork.com/watch.xml?key=4bfc6d5e8b64e506914dd34a157d6f60]]></MediaFile>
